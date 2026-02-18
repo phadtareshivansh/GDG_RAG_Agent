@@ -1,0 +1,10 @@
+streamlit
+chromadb
+beautifulsoup4
+requests
+python-dotenv
+sentence-transformers
+google-genai
+numpy
+pandas
+pytest
